@@ -10,11 +10,11 @@ const perguntas = [
     alternativas: [
         {
             texto:"Isso é assustador!",
-            afirmacao: "afirmacao"
+            afirmacao: "O desconhecido pode amedontrar."
         },
         {
             texto:"Isso é maravilhoso!",
-            afirmacao: "afirmacao"
+            afirmacao: "Pode ser algo bom, auxiliando gerações futuras."
         }  
     ],
   },
@@ -24,11 +24,11 @@ const perguntas = [
     alternativas: [
             {
                 texto:  "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao:"afirmacao"
+                afirmacao:"Ajuda a simplificar problemas e linguagens, onde o usuário pode se adaptar facilmente. "
             },
             {
                 texto:  "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmacao"
+                afirmacao: "Utiliza o tempo de melhor forma."
             }  
     ],
   },
@@ -38,11 +38,11 @@ const perguntas = [
     alternativas: [
         {
             texto:  "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-            afirmacao: "afirmacao"
+            afirmacao: "Pode ser uma ótima ferramenta, ajudando no trabalho humano."
         },
         {
             texto:  "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendo a importância de proteger os trabalhadores.",
-            afirmacao: "afirmacao"
+            afirmacao: "Entretando, pode gerar uma crise de desemprego em vista que as máquinas podem substituir o trabalho humano."
         }    
     ],
   },
@@ -52,11 +52,11 @@ const perguntas = [
     alternativas: [
         {
             texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-            afirmacao: "afirmacao"
+            afirmacao: "Pode ser bom"
         },
         {
             texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-            afirmacao: "afirmacao"
+            afirmacao: "Apesar de não ser perfeito, pode ser bom."
         }    
     ],
   },
@@ -66,11 +66,11 @@ const perguntas = [
     alternativas: [
         {
             texto:  "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-            afirmacao: "afirmacao"
+            afirmacao: "Deve ser usado com responsabilidade."
         },
         {
             texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-            afirmacao: "afirmacao"
+            afirmacao: "A revisão é essencial para evitar erros bobos."
         }    
     ]
   },
